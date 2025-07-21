@@ -1,0 +1,15 @@
+### Criando seu primeiro Copilot no Microsoft Copilot Studio
+
+No conteúdo foi mostrado como criar um Copilot no Microsoft Copilot Studio e como criar baseados em modelos, descrição com IA e criar um em branco.
+
+# Criando um Copilot baseado em modelo
+
+Para criar um Copilot com base em modelo dentro do copilotstudio.microsoft.com a Microsoft disponibiliza diversos modelos de Copilot prontos e que é possível editar de acordo com a necessidade do cliente.
+
+# Criando um Copilot baseado em descrição com IA
+
+Para criar um Copilot baseado em descrição com IA o cliente descreve de acordo com a necessidade o texto que deseja que o Copilot siga, por exemplo no tipo de resposta que o cliente deseja que o Copilot tenha ou se o cliente deseja que o Copilot tenha uma interação por voz, texto, e-mail, mensagem, etc.
+
+# Criando um Copilot em branco
+
+Para criar um Copilot em branco o cliente irá criar o Copilot do zero, sem nenhum modelo pré-definido.
